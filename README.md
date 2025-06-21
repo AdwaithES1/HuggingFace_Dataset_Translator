@@ -1,4 +1,4 @@
-## Dataset translator using IndicTrans2 model
+# Dataset translator using IndicTrans2 model
 
 This is a pipeline which uses IndicTrans2 model to translate datasets imported directly from HuggingFace into 22 indic languages {Assamese,Bengali,Bodo,Dogri,English,Gujarati,Hindi,Kannada,
 Kashmiri (Arabic script and Devanagari script),Konkani,Maithili,Malayalam,Manipuri (Bengali script and Meitei script),Marathi,Nepali,Odia,Punjabi,Sanskrit,Santali (Ol Chiki script),Sindhi 
