@@ -1,0 +1,18 @@
+name: indictrans_env
+channels:
+  - defaults
+  - conda-forge
+  - pytorch
+  - nvidia
+dependencies:
+  - python=3.10
+  - pip
+  - pytorch
+  - torchvision
+  - torchaudio
+  - pytorch-cuda=11.8  # Change this if your CUDA version differs
+  - tqdm
+  - pip:
+      - transformers
+      - datasets
+      - IndicTransToolkit
