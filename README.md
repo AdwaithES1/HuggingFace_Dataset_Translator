@@ -11,6 +11,7 @@ Note : CUDA installation is a prerequisite, if not, the code will run on CPU whi
 Run the commands:
 
 conda env create -f environment.yml
+
 conda activate dataset-translator
 
 After it, you can run the translate.py program.
